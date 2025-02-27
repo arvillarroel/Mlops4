@@ -28,9 +28,9 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 #RESOURCE_GROUP_NAME="cloudml"
-GROUP="default_resource_group"
+GROUP="Test_RG"
 LOCATION="eastus"
-WORKSPACE="test_workspace_azure_ml"
+WORKSPACE="azureml"
 # </set_variables>
 
 
